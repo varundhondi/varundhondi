@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Dhondi Varun</h1>
 
 <h3 align="center">
@@ -117,4 +116,3 @@ FastAPI • REST APIs • ETL/ELT Pipelines • SQL & NoSQL • Real-Time Data P
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=varundhondi&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-```
