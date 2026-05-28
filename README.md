@@ -74,6 +74,10 @@ Machine Learning • Predictive Modeling • Sentiment Analysis • Feature Engi
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb,mysql,redis,docker,postman" />
+
+  <img src="https://cdn.simpleicons.org/anthropic/white" height="48" style="margin-left:10px;"/>
+
+  <img src="https://avatars.githubusercontent.com/u/181984694?s=200&v=4" height="48" style="margin-left:10px;border-radius:10px;"/>
 </p>
 
 <p align="center">
