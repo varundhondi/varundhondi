@@ -52,15 +52,20 @@
 ## 🤖 AI & Machine Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-121212?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NLP-228B22?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-DC143C?style=for-the-badge"/>
+</p>
+
+<p align="center">
+Machine Learning • Predictive Modeling • Sentiment Analysis • Feature Engineering • EDA • Data Visualization
 </p>
 
 ---
@@ -68,14 +73,19 @@
 ## ⚙️ Backend & Data Engineering
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb,mysql,redis,docker" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb,mysql,redis,docker,postman" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ETL%2FELT-FF9800?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Real_Time_Analytics-DC143C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Workflow_Automation-6A5ACD?style=for-the-badge"/>
+</p>
+
+<p align="center">
+Backend Development • API Integration • Data Engineering • SQL Querying • Real-Time Pipelines • Scalable Backend Systems
 </p>
 
 ---
@@ -83,7 +93,11 @@
 ## ☁️ Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,streamlit,vscode,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=python,git,linux,docker,vscode,mongodb,mysql,redis,streamlit" />
+</p>
+
+<p align="center">
+Pandas • NumPy • Jupyter Notebook • Google Colab • Postman • AWS Fundamentals
 </p>
 
 ---
