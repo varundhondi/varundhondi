@@ -108,18 +108,6 @@ Pandas • NumPy • Scikit-learn • Jupyter Notebook • Google Colab • Post
 
 ---
 
-## ☁️ Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,linux,docker,vscode,mongodb,mysql,redis,streamlit" />
-</p>
-
-<p align="center">
-Pandas • NumPy • Jupyter Notebook • Google Colab • Postman • AWS Fundamentals
-</p>
-
----
-
 # 📈 Current Focus
 
 <div align="center">
