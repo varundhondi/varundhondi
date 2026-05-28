@@ -1,4 +1,3 @@
-````md
 <h1 align="center">Hi 👋, I'm Dhondi Varun</h1>
 
 <h3 align="center">
@@ -140,4 +139,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=varundhondi&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
-```
