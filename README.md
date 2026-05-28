@@ -82,10 +82,24 @@ Machine Learning • Predictive Modeling • Sentiment Analysis • Feature Engi
   <img src="https://img.shields.io/badge/ETL%2FELT-FF9800?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Real_Time_Analytics-DC143C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Workflow_Automation-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Claude_Code-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Antigravity_AI-111827?style=for-the-badge"/>
 </p>
 
 <p align="center">
-Backend Development • API Integration • Data Engineering • SQL Querying • Real-Time Pipelines • Scalable Backend Systems
+Backend Development • FastAPI Backend Systems • API Integration • Data Engineering • SQL Querying • Real-Time Pipelines • Scalable Backend Systems • Distributed Processing Concepts • Performance Optimization • Caching Strategies
+</p>
+
+---
+
+## ☁️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,git,linux,docker,vscode,mongodb,mysql,redis,streamlit" />
+</p>
+
+<p align="center">
+Pandas • NumPy • Scikit-learn • Jupyter Notebook • Google Colab • Postman • AWS Fundamentals • ClaudeCode • Antigravity
 </p>
 
 ---
