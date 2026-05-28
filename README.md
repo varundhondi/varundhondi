@@ -1,11 +1,12 @@
+````md
 <h1 align="center">Hi 👋, I'm Dhondi Varun</h1>
 
 <h3 align="center">
-AI Engineer • Generative AI • Backend Systems • Data Engineering
+🚀 AI Engineer • Generative AI • Backend Systems • Data Engineering
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Generative+AI+Developer;Backend+Systems+Engineer;Building+Scalable+AI+Applications;FastAPI+%7C+RAG+Pipelines+%7C+LLMs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Generative+AI+Developer;Backend+Systems+Engineer;Building+Scalable+AI+Applications;FastAPI+%7C+RAG+Pipelines+%7C+LLMs" />
 </p>
 
 ---
@@ -22,22 +23,28 @@ AI Engineer • Generative AI • Backend Systems • Data Engineering
   <a href="mailto:varundhondi2235@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <a href="https://github.com/varundhondi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 # 🧠 About Me
 
 🎓 Integrated M.Tech Computer Science student at **VIT Chennai**
 
-🚀 Passionate about building:
-- Generative AI systems
-- Production-ready backend architectures
-- RAG pipelines & LLM workflows
-- Real-time analytics platforms
-- AI-powered automation systems
+💡 Passionate about:
+- 🤖 Generative AI Systems  
+- ⚡ Production-Ready Backend Architectures  
+- 🔍 RAG Pipelines & LLM Workflows  
+- 📊 Real-Time Analytics Platforms  
+- ☁️ AI Automation & Cloud Infrastructure  
 
-💡 I enjoy transforming complex problems into scalable and impactful AI solutions through clean architecture and performance-driven engineering.
+🚀 I enjoy transforming complex problems into scalable and impactful AI solutions through clean architecture, automation, and performance-driven engineering.
 
 ---
 
@@ -46,11 +53,15 @@ AI Engineer • Generative AI • Backend Systems • Data Engineering
 ## 🤖 AI & Machine Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 </p>
 
 <p align="center">
-Generative AI • LangChain • RAG Pipelines • Prompt Engineering • NLP • LLM Workflows
+  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-228B22?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge"/>
 </p>
 
 ---
@@ -58,11 +69,14 @@ Generative AI • LangChain • RAG Pipelines • Prompt Engineering • NLP •
 ## ⚙️ Backend & Data Engineering
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb,mysql,redis,docker" />
 </p>
 
 <p align="center">
-FastAPI • REST APIs • ETL/ELT Pipelines • SQL & NoSQL • Real-Time Data Processing
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ETL%2FELT-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Real_Time_Analytics-DC143C?style=for-the-badge"/>
 </p>
 
 ---
@@ -70,24 +84,26 @@ FastAPI • REST APIs • ETL/ELT Pipelines • SQL & NoSQL • Real-Time Data P
 ## ☁️ Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,streamlit,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=git,linux,streamlit,vscode,docker,postman" />
 </p>
 
 ---
 
 # 📈 Current Focus
 
+<div align="center">
+
 ```yaml
-- Building scalable AI systems
-- Advanced RAG architectures
-- Backend optimization with FastAPI
-- AI workflow automation
-- Cloud-based AI deployment
+🚀 Building scalable AI systems
+🧠 Exploring advanced RAG architectures
+⚡ Backend optimization with FastAPI
+🔄 AI workflow automation
+☁️ Cloud-based AI deployment
 ````
 
+</div>
+
 ---
-
-
 
 # 🌐 Connect With Me
 
@@ -103,16 +119,25 @@ FastAPI • REST APIs • ETL/ELT Pipelines • SQL & NoSQL • Real-Time Data P
   <a href="mailto:varundhondi2235@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
+
+  <a href="https://github.com/varundhondi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
 </p>
 
 ---
 
 # ⚡ Fun Fact
 
-> I love building AI systems that turn data into intelligence and ideas into impact.
+<div align="center">
+
+> 💡 I love building AI systems that turn data into intelligence and ideas into impact.
+
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varundhondi&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=varundhondi&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+```
